@@ -1,0 +1,14 @@
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.deps.json
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.runtimeconfig.json
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.dll
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.pdb
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.Model.dll
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TaxiFarePredictionAppML.Model.pdb
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.AssemblyInfo.cs
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.csproj.CopyComplete
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.dll
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.pdb

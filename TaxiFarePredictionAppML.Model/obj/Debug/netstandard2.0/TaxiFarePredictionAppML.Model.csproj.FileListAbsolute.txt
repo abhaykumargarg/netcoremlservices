@@ -1,0 +1,9 @@
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\bin\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.deps.json
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\bin\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.dll
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\bin\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.pdb
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\obj\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.csprojAssemblyReference.cache
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\obj\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.AssemblyInfoInputs.cache
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\obj\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.AssemblyInfo.cs
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\obj\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.dll
+C:\Users\akumar552\Desktop\AWS_Oct\TaxiFarePredictionApp\TaxiFarePredictionAppML.Model\obj\Debug\netstandard2.0\TaxiFarePredictionAppML.Model.pdb
